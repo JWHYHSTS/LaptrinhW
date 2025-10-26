@@ -110,7 +110,7 @@
             this.pnlBanco.Location = new System.Drawing.Point(411, 103);
             this.pnlBanco.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.pnlBanco.Name = "pnlBanco";
-            this.pnlBanco.Size = new System.Drawing.Size(1009, 955);
+            this.pnlBanco.Size = new System.Drawing.Size(1009, 928);
             this.pnlBanco.TabIndex = 5;
             this.pnlBanco.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlBanco_Paint);
             this.pnlBanco.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pnlBanco_MouseClick);

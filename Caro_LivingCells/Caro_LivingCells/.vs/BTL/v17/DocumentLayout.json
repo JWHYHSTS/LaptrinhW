@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\giua_ky\\caro_livingcells\\caro_livingcells\\carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\giua_ky\\caro_livingcells\\caro_livingcells\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 168,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,18 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.resx",
-              "RelativeDocumentMoniker": "Form1.resx",
-              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.resx",
-              "RelativeToolTip": "Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-26T03:19:20.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Rank.cs",
               "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Rank.cs",
               "RelativeDocumentMoniker": "Rank.cs",
@@ -141,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -149,7 +138,8 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAYwNkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T05:57:39.925Z"
+              "WhenOpened": "2025-10-06T05:57:39.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,45 +149,58 @@
               "RelativeDocumentMoniker": "CaroChess.cs",
               "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\CaroChess.cs",
               "RelativeToolTip": "CaroChess.cs",
-              "ViewState": "AgIAAFcEAAAAAAAAAAAAAG8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAFcDAAAAAAAAAAAAwD8DAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T12:46:52.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BanCo.cs",
               "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\BanCo.cs",
               "RelativeDocumentMoniker": "BanCo.cs",
               "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\BanCo.cs",
               "RelativeToolTip": "BanCo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T13:16:07.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\GK_VL\\Caro1\\Caro1\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\GK_VL\\Caro1\\Caro1\\Form1.cs [Design]",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T12:46:40.533Z"
+              "WhenOpened": "2025-10-24T12:46:40.533Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "OCo.cs",
               "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\OCo.cs",
               "RelativeDocumentMoniker": "OCo.cs",
               "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\OCo.cs",
               "RelativeToolTip": "OCo.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowBgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T12:47:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-26T03:19:20.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

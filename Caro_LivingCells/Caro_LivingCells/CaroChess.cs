@@ -1105,7 +1105,6 @@ namespace BTL
             {
                 DiemTong /= 2;
             }
-
             return DiemTong;
         }
     }

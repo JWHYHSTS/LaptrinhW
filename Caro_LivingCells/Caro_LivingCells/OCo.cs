@@ -12,7 +12,7 @@ namespace BTL
     {
         // Kích thước mặc định của 1 ô (pixel)
         public const int _ChieuRong = 25;
-        public const int _ChieuCao = 25;
+        public const int _ChieuCao = 24;
         // Dòng (hàng) của ô trên bàn cờ
         private int _Dong;
         public int Dong

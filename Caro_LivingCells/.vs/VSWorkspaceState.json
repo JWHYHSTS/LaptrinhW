@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Caro1"
+    "\\Caro_LivingCells"
   ],
-  "SelectedNode": "\\Caro1\\Rank.cs",
+  "SelectedNode": "\\Caro_LivingCells\\CaroChess.cs",
   "PreviewInSolutionExplorer": false
 }
