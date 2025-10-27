@@ -480,8 +480,6 @@ namespace BTL
         }
         private OCo TimKiemNuocDiAlphaBeta()
         {
-            
-
             OCo oCoresult = new OCo();
             int depth = 3; // Độ sâu tìm kiếm, có thể điều chỉnh
             long alpha = long.MinValue;
@@ -595,6 +593,7 @@ namespace BTL
 
             return scored;
         }
+        // Hàm Alpha-Beta Pruning
         private long AlphaBeta(int depth, long alpha, long beta, bool maximizingPlayer, int lastRow, int lastCol)
         {
             if (depth == 0 || KiemTraChienThangCOM(lastRow, lastCol) != 0)
@@ -644,7 +643,7 @@ namespace BTL
                 return minEval;
             }
         }
-
+        // Hàm đánh giá bàn cờ 
         private long EvaluateBoard()
         {
             long score = 0;
@@ -777,7 +776,6 @@ namespace BTL
             {
                 DiemTong /= 2; // Chia điểm nếu bị chặn một đầu
             }
-
             return DiemTong;
         }
 
