@@ -1,4 +1,4 @@
-# 🎮 Game Cờ Caro (Gomoku)
+# 🎮 Game Cờ Caro
 
 ## 🧩 Giới thiệu
 **Game Caro** là trò chơi kinh điển dành cho 2 người, hoặc người chơi với máy (AI).  
