@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\formbangxephang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formbangxephang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:carochess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\resources\\rank.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:resources\\rank.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\formbangxephang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formbangxephang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\giua_ky\\caro_livingcells\\caro_livingcells\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:oco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\bin\\Debug\\taikhoan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\taikhoan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\formbangxephang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formbangxephang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA0971A-9F3E-4450-9889-B4DFC3334991}|BTL.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBangXepHang.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormBangXepHang.cs",
+              "RelativeDocumentMoniker": "FormBangXepHang.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormBangXepHang.cs",
+              "RelativeToolTip": "FormBangXepHang.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:16:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BanCo.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\BanCo.cs",
+              "RelativeDocumentMoniker": "BanCo.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\BanCo.cs",
+              "RelativeToolTip": "BanCo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:16:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rank.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Rank.cs",
+              "RelativeDocumentMoniker": "Rank.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Rank.cs",
+              "RelativeToolTip": "Rank.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:36:56.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaroChess.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\CaroChess.cs",
+              "RelativeDocumentMoniker": "CaroChess.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\CaroChess.cs",
+              "RelativeToolTip": "CaroChess.cs",
+              "ViewState": "AgIAAEEDAAAAAAAAAAAzwEUDAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:53:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBangXepHang.cs [Design]",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormBangXepHang.cs",
+              "RelativeDocumentMoniker": "FormBangXepHang.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormBangXepHang.cs [Design]",
+              "RelativeToolTip": "FormBangXepHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:16:06.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rank.txt",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Resources\\rank.txt",
+              "RelativeDocumentMoniker": "Resources\\rank.txt",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Resources\\rank.txt",
+              "RelativeToolTip": "Resources\\rank.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-23T10:36:09.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:47:53.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-26T03:19:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OCo.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\OCo.cs",
+              "RelativeDocumentMoniker": "OCo.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\OCo.cs",
+              "RelativeToolTip": "OCo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:47:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:46:40.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAYwNkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:57:39.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "taikhoan.txt",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\bin\\Debug\\taikhoan.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\taikhoan.txt",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\bin\\Debug\\taikhoan.txt",
+              "RelativeToolTip": "bin\\Debug\\taikhoan.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-24T13:50:17.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBangXepHang.Designer.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormBangXepHang.Designer.cs",
+              "RelativeDocumentMoniker": "FormBangXepHang.Designer.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormBangXepHang.Designer.cs",
+              "RelativeToolTip": "FormBangXepHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:16:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormDangNhap.cs",
+              "RelativeToolTip": "FormDangNhap.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:56:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Giua_ky\\Caro_LivingCells\\Caro_LivingCells\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\natsu\\Downloads\\Caro1\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:59:13.902Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 643,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:73:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 447,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
